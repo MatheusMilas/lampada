@@ -22,3 +22,16 @@ button {
     color: #fff;
     box-shadow: 5px 5px 10px rgb(43, 39, 39);
 }
+
+footer > a{
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+    font-style: italic;
+}
+
+a:hover {
+    text-decoration: underline;
+}
